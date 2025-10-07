@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- meta here -->
+    <title>My Website</title>
 </head>
 <body>
 <?php 
