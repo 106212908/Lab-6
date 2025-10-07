@@ -1,4 +1,13 @@
-<?php include 'header.inc'; ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- meta here -->
+</head>
+<body>
+<?php 
+    include_once ('header.inc'); 
+?>
+
 <form method="post" action="process.php">
     <label for="username">Username:</label>
     <input type="text" id="username" name="username" required><br>
@@ -9,6 +18,12 @@
     <input type="hidden" name="token" value="J24042195">
     <input type="submit" value="Login">
 </form>
-<?php include 'footer.inc'; ?>
+
+<?php 
+    include_once 'footer.inc'; 
+?>
+
+</body>
+</html>
 
     
