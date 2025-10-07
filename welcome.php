@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <!-- meta here -->
+</head>
+<body>
 <?php 
     include_once 'header.inc'; 
 ?>
